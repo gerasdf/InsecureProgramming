@@ -18,10 +18,23 @@
  where has also changed, but I believe it's safe to assume all are
  exploitable on every operating system, because you'll be surprised of
  the solutions I've seen over time :-)
-
+ 
  Too many people told me they enjoyed playing and learning with "the
  abos", and many people also told me they are still using them, so,
  here they are... Who says they'll keep evolving?
+
+## Order
+ Though any order is fine, and the last I've made are the stack*
+ series, I belive the following order will smooth your path. Specially
+ up to the numeric examples. Some are more complex than others, even
+ in at the begining. Don't you ever give up!
+
+* stack*.c - Introductory
+* abo*.c - [Advanced] Buffer Overflows
+* fs*.c - Format Strings
+* n*.c - Numeric
+* e*.c - Esoteric
+* sg*.c - Signals
 
 ## Original Source
  http://community.coresecurity.com/~gera/InsecureProgramming/
