@@ -1,4 +1,4 @@
-/* sg2.c                                                   *
+/* sg2.c                                                      *
  *  * specially crafted to feed your brain by gera@corest.com */
 
 void func(char *msg) {

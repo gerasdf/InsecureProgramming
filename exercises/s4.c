@@ -1,4 +1,4 @@
-/* s4.c                                                     *
+/* s4.c                                                      *
  * specially crafted to feed your brain by gera@core-sdi.com */
 
 /* recurring nightmare */

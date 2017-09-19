@@ -1,4 +1,4 @@
-/* abo7.c                                                  *
+/* abo7.c                                                    *
  * specially crafted to feed your brain by gera@core-sdi.com */
 
 /* sometimes you can,       *

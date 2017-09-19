@@ -1,7 +1,7 @@
-/* fs5.c                                                    *
+/* fs5.c                                                     *
  * specially crafted to feed your brain by gera@core-sdi.com */
 
-/* go, go, go!                                              */
+/* go, go, go!                                               */
 int main(int argv,char **argc) {
     char buf[256];
     snprintf(buf,sizeof buf,argc[1]);

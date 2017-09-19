@@ -1,7 +1,7 @@
-/* fs3.c                                                    *
+/* fs3.c                                                     *
  * specially crafted to feed your brain by riq@core-sdi.com  */
 
-/* Not enough resources?                    */
+/* Not enough resources?                                     */
 
 int main(int argv,char **argc) {
     char buf[256];

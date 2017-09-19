@@ -1,7 +1,7 @@
-/* s3.c                                                     *
+/* s3.c                                                      *
  * specially crafted to feed your brain by gera@core-sdi.com */
 
-/* Give me a sign!!!!                                       */
+/* Give me a sign!!!!                                        */
 
 int main(int argv,char **argc) {
     char *pbuf=(char*)malloc(strlen(argc[2])+1);

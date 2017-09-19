@@ -1,4 +1,4 @@
-/* abo5.c                                                  *
+/* abo5.c                                                    *
  * specially crafted to feed your brain by gera@core-sdi.com */
 
 /* You take the blue pill, you wake up in your bed,    *

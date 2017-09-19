@@ -1,4 +1,4 @@
-/* s2.c                                                     *
+/* s2.c                                                      *
  * specially crafted to feed your brain by gera@core-sdi.com */
 
 /* do you resign? */

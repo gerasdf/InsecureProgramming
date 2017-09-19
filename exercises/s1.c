@@ -1,7 +1,7 @@
-/* s1.c                                                     *
+/* s1.c                                                      *
  * specially crafted to feed your brain by gera@core-sdi.com */
 
-/* now I've got it!                                         */
+/* now I've got it!                                          */
 
 int main(int argv,char **argc) {
     char *pbuf=(char*)malloc(strlen(argc[2])+1);

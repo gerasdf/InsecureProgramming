@@ -1,7 +1,7 @@
-/* fs2.c                                                    *
+/* fs2.c                                                     *
  * specially crafted to feed your brain by gera@core-sdi.com */
 
-/* Can you tell me what's above the edge?                   */
+/* Can you tell me what's above the edge?                    */
 int main(int argv,char **argc) {
     char buf[256];
 

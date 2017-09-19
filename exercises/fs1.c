@@ -1,9 +1,9 @@
-/* fs1.c                                                    *
+/* fs1.c                                                     *
  * specially crafted to feed your brain by gera@core-sdi.com */
 
-/* Don't forget,                                            *
- * more is less,                                            *
- * here's a proof                                           */
+/* Don't forget,                                             *
+ * more is less,                                             *
+ * here's a proof                                            */
 
 int main(int argv,char **argc) {
     short int zero=0;
