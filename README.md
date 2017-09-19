@@ -34,7 +34,8 @@
 * fs*.c - Format Strings
 * n*.c - Numeric
 * e*.c - Esoteric
-* sg*.c - Signals
+* s*.c - Signals
+* sg*.c - Erm... I don't rememeber, heh
 
 ## Original Source
  http://community.coresecurity.com/~gera/InsecureProgramming/
